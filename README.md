@@ -1,6 +1,6 @@
 ![GIF1](https://user-images.githubusercontent.com/53346605/118218620-76ba9c00-b495-11eb-80a7-0178078fa3df.gif)
 
-# Namaaste! 🙏
+# Namaste! 🙏
 
 - 👋 Hi, I’m **Sudeep Swain**. **🇮🇳**
 - 👀 I’m a geek freak who's much passionate in new technologies. **Automations** and **Automobiles** highly drive me crazy.
