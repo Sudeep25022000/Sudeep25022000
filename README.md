@@ -29,6 +29,17 @@
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
 
+# Statistics 📊
+
+<a href="https://github.com/Sudeep25022000/Sudeep25022000">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sudeep25022000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sudeep's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Sudeep25022000/Sudeep25022000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep25022000&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 <!---
 Sudeep25022000/Sudeep25022000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
