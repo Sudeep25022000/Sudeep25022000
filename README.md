@@ -1,6 +1,7 @@
 ![GIF1](https://user-images.githubusercontent.com/53346605/118218620-76ba9c00-b495-11eb-80a7-0178078fa3df.gif)
 
 # Namaaste! 🙏
+
 - 👋 Hi, I’m **Sudeep Swain**. **🇮🇳**
 - 👀 I’m a geek freak who's much passionate in new technologies. **Automations** and **Automobiles** highly drive me crazy.
 - 📚 I’m a **3rd year UG** from [**Institute of Technical Education and Research**](https://www.soa.ac.in/iter), **Siksha O Anusandhan (Deemed University)**.
@@ -14,6 +15,8 @@
   - 📧 [**Facebook**](https://www.facebook.com/sudeep.swain.98)
   - 📧 [**Instagram**](https://www.instagram.com/p_s_e_u_d_o.25/)
   
+<img align="right" title="Happy Coder" width="250" height="150" src="https://user-images.githubusercontent.com/53346605/118228929-ab841e80-b4a8-11eb-9d69-6f7c3c97e02a.gif">
+
 # Technologies & Tools 🔧
 
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
@@ -25,10 +28,9 @@
 ![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
-<img src="https://user-images.githubusercontent.com/53346605/118226479-b63cb480-b4a4-11eb-9ad4-79f20a755db7.png" width="100" height="100">
 
 <!---
 Sudeep25022000/Sudeep25022000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--<img src="https://user-images.githubusercontent.com/53346605/118224244-5f34e080-b4a0-11eb-89a1-b922c9e420ad.jpg" width="100" height="100">-->
+<!--width="100" height="100"<img src="https://user-images.githubusercontent.com/53346605/118224244-5f34e080-b4a0-11eb-89a1-b922c9e420ad.jpg" width="100" height="100">-->
