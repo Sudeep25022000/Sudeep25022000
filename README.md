@@ -9,7 +9,7 @@
 - 🎮 I'm a die hard fan of simulating games. **Currently playing:** [**Forza Horizon 4 Ultimate Edition**](https://www.microsoft.com/en-us/p/forza-horizon-4-ultimate-edition/9p513p4mwc71?activetab=pivot%3aoverviewtab)
 - 📫 Let's get connected ...
   - 📧 Gmail: [**sudeepswain2000@gmail.com**](https://mail.google.com/mail/u/0/#inbox)
-  - 📧 [**LinkedIn**](www.linkedin.com/in/sudeepswain2502)
+  - 📧 [**LinkedIn**](https://www.linkedin.com/in/sudeepswain2502/)
   - 📧 [**Twitter**](https://twitter.com/SudeepSwain25)
   - 📧 [**Telegram**](https://t.me/Pseudo2502) 
   - 📧 [**Facebook**](https://www.facebook.com/sudeep.swain.98)
