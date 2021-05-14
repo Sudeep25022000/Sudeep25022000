@@ -15,7 +15,7 @@
   - 📧 [**Facebook**](https://www.facebook.com/sudeep.swain.98)
   - 📧 [**Instagram**](https://www.instagram.com/p_s_e_u_d_o.25/)
   
-<img align="right" title="Happy Coder" width="250" height="150" src="https://user-images.githubusercontent.com/53346605/118228929-ab841e80-b4a8-11eb-9d69-6f7c3c97e02a.gif">
+<img align="right" title="Sudeep Swain" width="250" height="150" src="https://user-images.githubusercontent.com/53346605/118228929-ab841e80-b4a8-11eb-9d69-6f7c3c97e02a.gif">
 
 # Technologies & Tools 🔧
 
