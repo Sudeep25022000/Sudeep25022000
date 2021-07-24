@@ -5,7 +5,7 @@
 - 👋 Hi, I’m **Sudeep Swain**. **🇮🇳**
 - 👀 I’m a geek freak who's much passionate in new technologies. **Automations** and **Automobiles** highly drive me crazy.
 - 📚 I’m a **3rd year UG** from [**Institute of Technical Education and Research**](https://www.soa.ac.in/iter), **Siksha O Anusandhan (Deemed University)**.
-- 💻 I'm contributing as an active member at [**Codex**](https://github.com/codex-iter).
+- 💻 I'm contributing as an active member at [**Codex-ITER**](https://github.com/codex-iter).
 - 🎮 I'm a die hard fan of simulating games. **Currently playing:** [**Forza Horizon 4 Ultimate Edition**](https://www.microsoft.com/en-us/p/forza-horizon-4-ultimate-edition/9p513p4mwc71?activetab=pivot%3aoverviewtab)
 - 📫 Let's get connected ...
   - 📧 Gmail: [**sudeepswain2000@gmail.com**](https://mail.google.com/mail/u/0/#inbox)
